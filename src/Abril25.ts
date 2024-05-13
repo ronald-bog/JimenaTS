@@ -14,19 +14,24 @@
 //         console.log(color + ' NOO es un color SECUNDARIO');
 //     }
 // }
-const opcion: string = 'J';
+// const opcion: string = 'J';
 
-switch (opcion) {
-    case 'R':
-        console.log('La opcion es R');
-        break;
-    case 'Z':
-        console.log('La opcion es Z');
-        break;
-    default:
-        console.log('NO RECONOZCO');
-}
+// switch (opcion) {
+//     case 'R':
+//         console.log('La opcion es R');
+//         break;
+//     case 'Z':
+//         console.log('La opcion es Z');
+//         break;
+//     default:
+//         console.log('NO RECONOZCO');
+// }
 
-console.log('DESPUES DEL SWITCH');
+// console.log('DESPUES DEL SWITCH');
+
+// let nombre = 'Pepito'
+// alert(nombre);
+
+// prompt();
 
 
