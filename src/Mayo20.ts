@@ -23,3 +23,5 @@ let tupla2: [number, ...string[]] = [556, 'Jimena', 'Ronald', 'Luis'];
 console.log(tupla2[1]);
 
 // FUNCIONES codigo en la proxima clase
+
+
