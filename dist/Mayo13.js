@@ -15,5 +15,3 @@ else {
             alert('NO RECONOZCO');
     }
 }
-
-
